@@ -1,0 +1,6 @@
+.idea/.idea.GuestBook/.idea/*
+
+GuestBook/bin/Debug/net8.0/*
+GuestBook/obj/*
+
+GuestBook/wwwroot/uploads/*
